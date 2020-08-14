@@ -1,10 +1,11 @@
 TEAM NAME: The Sign of Three
 TEAM MEMBERS:
+
 	1. Ankit Kumar Sahoo IMT2018502
-		AnkitKumar.Sahoo@iiitb.org
-	2. Saksham Agarwal IMT2018065
+                AnkitKumar.Sahoo@iiitb.org
+        2. Saksham Agarwal IMT2018065
 		Saksham.Agarwal@iiitb.org
-	3. Sowmith Nandan IMT2018074
+        3. Sowmith Nandan IMT2018074
 		Sowmith.Nandan@iiitb.org
 
 We are making game using python and pygame. The game developing concepts are being learnt online, through tutorial videos and books provided online. We have tried on thinking on two games, one  based on Bubble Trouble, and another one based on Street Fighter. 
